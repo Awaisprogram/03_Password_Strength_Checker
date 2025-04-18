@@ -320,4 +320,4 @@ with tab2:
 
 st.markdown("<hr>", unsafe_allow_html=True)
 current_date = st.session_state.get('current_date', 'June 2023')
-st.markdown(f"<div class='footer'>Made by Waleed Mehmood with Streamlit | Last updated: {current_date}</div>", unsafe_allow_html=True)
+st.markdown(f"<div class='footer'>Made by Awais Mehmood with Streamlit | Last updated: {current_date}</div>", unsafe_allow_html=True)
